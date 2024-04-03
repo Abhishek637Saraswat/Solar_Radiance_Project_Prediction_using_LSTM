@@ -1,6 +1,8 @@
 # Solar_Radiance_Project_Prediction_using_LSTM
 An LSTM based time series forecasting of solar radiation at Bondville using NOAA dataset and pytorch
 In this repository, you'll find everything you need for a comprehensive time series forecasting project centered around predicting solar irradiance. With solar energy generation experiencing rapid expansion, precise forecasts of solar irradiance are vital for optimizing power management and distribution. This project covers various aspects including meticulous data exploration, utilization of  modern neural network architecture, particularly LSTM and GRU. Detailed analysis of the results obtained from these model is also provided.
+
+
 Key Components
 Data Exploration: Dive deep into the intricacies of solar irradiance data obtained from reliable sources. This phase involves thorough examination, feature selection, and any necessary data preprocessing steps.
 
